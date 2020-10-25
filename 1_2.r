@@ -1,0 +1,10 @@
+x<-c(1,2,3,4)
+x.a <-array(x,dim=c(2,2))
+x.a
+dim(x.a)
+is.vector(x.a) is.array(x.a)
+is.vector(x.a)
+is.array(x.a)
+typeof(x.a)
+str(x.a)
+attributes(x.a)
